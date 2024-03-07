@@ -11,7 +11,7 @@ router.use(bodyParser.urlencoded({ extended: true }))
 
 router.get('/', (req, res) => {
     res.render('index', {
-        title: "Página de bienvenida",
+        title: "Página de bienvenida de Alexis",
         greeting: "Hola",
         data: req.query.data
     })
