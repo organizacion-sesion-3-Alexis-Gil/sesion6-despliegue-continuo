@@ -37,3 +37,6 @@ La app estará disponible en `http://localhost:3000`
     - Configurar la variable de perfil
 6. Subir un nuevo cambio al repositorio
 7. Opcionalmente: crear un test que falle y comprobar que no se realiza el despliegue.
+
+## URL de la app
+http://aplicacionalexisgil-env.eba-mhktgqrs.us-east-1.elasticbeanstalk.com/
